@@ -28,6 +28,7 @@ class UserAdapter : RecyclerView.Adapter<UserAdapter.UserViewHolder>() {
                     .centerCrop()
                     .into(ivUser)
                 tvUsername.text = user.login
+                tvRepos.text = user.score
             }
 
 
