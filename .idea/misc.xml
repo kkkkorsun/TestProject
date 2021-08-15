@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject/app/src/main/res/layout/activity_detail_user.xml" value="0.2" />
         <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject/app/src/main/res/layout/fragment_repos.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject/app/src/main/res/layout/item_user.xml" value="0.33" />
       </map>
     </option>
