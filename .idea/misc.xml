@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/TestProject-main/app/src/main/res/layout/activity_detail_user.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/TestProject-main/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Dmitry/AndroidStudioProjects/TestProject-main/app/src/main/res/layout/item_repos.xml" value="0.2015625" />
+        <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject-main/app/src/main/res/layout/activity_detail_user.xml" value="0.26132246376811596" />
+        <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject-main/app/src/main/res/layout/fragment_repos.xml" value="0.26132246376811596" />
+        <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject-main/app/src/main/res/layout/item_repos.xml" value="0.5" />
         <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject/app/src/main/res/layout/activity_detail_user.xml" value="0.2" />
         <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/vobyd/Documents/GitHub/TestProject/app/src/main/res/layout/fragment_repos.xml" value="0.20520833333333333" />

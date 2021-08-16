@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestProject</string>
+    <string name="repo_s_name">Repo\'s name</string>
+    <string name="repository_description">Repository description</string>
 </resources>
